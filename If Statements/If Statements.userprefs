@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Loops\Assets\ForLoop.cs">
+    <Files>
+      <File FileName="..\Loops\Assets\WhileLoop.cs" Line="19" Column="1" />
+      <File FileName="..\Loops\Assets\ForEachLoop.cs" Line="12" Column="21" />
+      <File FileName="..\Loops\Assets\DoWhileLoop.cs" Line="14" Column="2" />
+      <File FileName="..\Loops\Assets\ForLoop.cs" Line="16" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
